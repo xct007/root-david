@@ -25,7 +25,7 @@ echo
 echo
 echo $Y"Moving File.."
 sleep 1
-cat /data/data/com.termux/files/home/root@david/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
+cat /data/data/com.termux/files/home/root-david/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
 cd /data/data/com.termux/files/usr/etc
 sleep 0.9
 sleep 0.5
